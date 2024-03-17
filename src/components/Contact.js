@@ -19,8 +19,8 @@ const Contact = () => {
                 </div>
                 <div className="apihu-port-contact-right-content">
                   <div className="apihu-port-contact-text">
-                    <span className="apihu-port-contact-number"><a href="mailto:aadityaraj085@gmail.com">MailTo: <font style={{ fontWeight: 'bold', color: '#e70280' }}>aadityaraj085@gmail.com</font></a></span>
-                    <span className="apihu-port-contact-email"><a href="https://instagram.com/aaditya_c16">DM on Instagram: <font style={{ fontWeight: 'bold', color: '#e70280' }}>aaditya_c16</font></a></span>
+                    <span className="apihu-port-contact-number"><a href="mailto:ataleb261@gmail.com">MailTo: <font style={{ fontWeight: 'bold', color: '#e70280' }}>ataleb261@gmail.com</font></a></span>
+                    <span className="apihu-port-contact-email"><a href="https://www.linkedin.com/in/abdalelah-taleb-751044193/"> Linkedin: <font style={{ fontWeight: 'bold', color: '#e70280' }}>abdalelah taleb</font></a></span>
                   </div>
                 </div>
               </div>

@@ -35,9 +35,9 @@ const Hero = () => {
                     <div className="col-xl-4 col-lg-4">
                         <div className="apihu-port-hero-social">
                             <ul>
-                                <li><a href="https://www.linkedin.com/in/aaditya-raj-053974188/"><i className="fa-brands fa-linkedin-in"></i></a></li>
-                                <li><a href="https://github.com/Aaditya1612"><i className="fa-brands fa-github"></i></a></li>
-                                <li><a href="https://www.instagram.com/aaditya_c16/"><i className="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/abdalelah-taleb-751044193/"><i className="fa-brands fa-linkedin-in"></i></a></li>
+                                <li><a href="https://github.com/abdalelah1/"><i className="fa-brands fa-github"></i></a></li>
+                                <li><a href="https://www.instagram.com/abdalelah_/"><i className="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                         <div className="apihu-port-hero-right wow slideInRight">
